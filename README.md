@@ -9,15 +9,20 @@ software development, data analysis and machine learning.
 
 ## Technologies
 
-🐍 Python  
+⚙️ C, C++
 🌐 HTML, CSS, JavaScript  
-📊 Pandas, Matplotlib, Seaborn  
+🐍 Python  
+📊 Pandas, Seaborn, scikit-learn  
 🤖 scikit-learn  
 🔧 Git & GitHub
 
 ## Projects
 
-🚀 More projects coming soon...
+💻 **Software Bug Prediction**  
+Machine Learning project for predicting software defects using software metrics, data analysis and classification models.
+
+🌍 **FIFA World Cup 2026**  
+Responsive FIFA World Cup 2026 website developed as a university web development project.
 
 ## Languages
 
